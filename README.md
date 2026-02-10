@@ -15,7 +15,7 @@ I work on building and operating **cloud-native environments and solutions**, le
     <img src="https://img.shields.io/badge/GitHub-Leonardo1202-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/leonardo-custodio/">
-  <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Custodio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Leonardo%201202-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
