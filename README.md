@@ -93,26 +93,19 @@ I work on building and operating **cloud-native environments and solutions**, le
 
 ### ☁️ AWS Certifications
 
-#### ✅ Certificada
 <p align="left">
-  <a href="https://www.credly.com/" target="_blank">
-    <img
-      src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
-      alt="AWS Certified Cloud Practitioner (CLF-C02)"
-      width="130"
-    />
-  </a>
-</p>
+  <img
+    src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+    alt="AWS Certified Cloud Practitioner (CLF-C02)"
+    width="140"
+    style="margin-right: 20px;"
+  />
 
-#### 📚 Em preparação
-<p align="left">
-  <a href="https://www.credly.com/" target="_blank">
-    <img
-      src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
-      alt="AWS Certified Developer – Associate (DVA-C02)"
-      width="130"
-    />
-  </a>
+  <img
+    src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
+    alt="AWS Certified Developer – Associate (DVA-C02)"
+    width="140"
+  />
 </p>
 
 ---
