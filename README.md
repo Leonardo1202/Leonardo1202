@@ -91,6 +91,27 @@ I work on building and operating **cloud-native environments and solutions**, le
 
 ---
 
+### ☁️ AWS Certifications
+
+#### ✅ Certificada
+<p align="left">
+  <img 
+    src="https://d1.awsstatic.com/training-and-certification/badges/AWS-Certified-Cloud-Practitioner_badge.png" 
+    alt="AWS Certified Cloud Practitioner (CLF-C02)"
+    width="120"
+  />
+</p>
+
+<p align="left">
+  <img 
+    src="https://d1.awsstatic.com/training-and-certification/badges/AWS-Certified-Developer-Associate_badge.png" 
+    alt="AWS Certified Developer – Associate (DVA-C02)"
+    width="120"
+  />
+</p>
+
+---
+
 ## 🌐 Where to find me
 
 <p align="left">
