@@ -56,7 +56,7 @@ I work on building and operating **cloud-native environments and solutions**, le
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo1202&layout=compact&theme=tokyonight" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Leonardo1202_AQUI&show_icons=true" />
 
 ---
 
