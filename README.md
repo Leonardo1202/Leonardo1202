@@ -95,26 +95,32 @@ I work on building and operating **cloud-native environments and solutions**, le
 
 ### ☁️ AWS Certifications
 
+### ☁️ AWS Certifications
+
 #### ✅ Certificada
 <p align="left">
-  <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
-    <img 
-      src="https://d1.awsstatic.com/training-and-certification/badges/AWS-Certified-Cloud-Practitioner_badge.png" 
-      alt="AWS Certified Cloud Practitioner (CLF-C02)"
-      width="130"
-    />
-  </a>
+  <img 
+    src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/Certification/AWS-Certified-Cloud-Practitioner.png"
+    alt="AWS Certified Cloud Practitioner (CLF-C02)"
+    width="130"
+  />
 </p>
 
+#### 📚 Em preparação
 <p align="left">
-  <a href="https://aws.amazon.com/certification/certified-developer-associate/" target="_blank">
-    <img 
-      src="https://d1.awsstatic.com/training-and-certification/badges/AWS-Certified-Developer-Associate_badge.png" 
-      alt="AWS Certified Developer – Associate (DVA-C02)"
-      width="130"
-    />
-  </a>
+  <img 
+    src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/master/dist/Certification/AWS-Certified-Developer-Associate.png"
+    alt="AWS Certified Developer – Associate (DVA-C02)"
+    width="130"
+  />
 </p>
+<img 
+
+  src="https://d1.awsstatic.com/training-and-certification/badges/AWS-Certified-Developer-Associate_badge.png" 
+
+  width="120"
+
+/>
 
 ---
 
