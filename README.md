@@ -112,7 +112,7 @@ I work on building and operating **cloud-native environments and solutions**, le
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/Leonardo1202">
     <img src="https://img.shields.io/badge/GitHub-Leonardo1202-181717?style=for-the-badge&logo=github" />
   </a>
     <a href="https://www.linkedin.com/in/leonardo-custodio-/">
