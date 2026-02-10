@@ -102,7 +102,7 @@ I work on building and operating **cloud-native environments and solutions**, le
         width="150"
       />
       <br/>
-      <strong>Certificada</strong>
+      <strong></strong>
     </td>
     <td align="center">
       <img
@@ -111,7 +111,6 @@ I work on building and operating **cloud-native environments and solutions**, le
         width="150"
       />
       <br/>
-      <strong>Em preparação</strong>
     </td>
   </tr>
 </table>
