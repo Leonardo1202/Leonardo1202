@@ -93,7 +93,7 @@ I work on building and operating **cloud-native environments and solutions**, le
 
 ### ☁️ AWS Certifications
 
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <img
