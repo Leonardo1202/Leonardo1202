@@ -119,12 +119,8 @@ I work on building and operating **cloud-native environments and solutions**, le
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Leonardo1202&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo1202&layout=compact&theme=tokyonight" />
-</p>
+![Leonardo Custodio GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo1202&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Leonardo1202_AQUI&show_icons=true" />
 
 ---
 
