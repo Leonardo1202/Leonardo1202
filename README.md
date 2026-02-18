@@ -135,13 +135,6 @@ I work on building and operating **cloud-native environments and solutions**, le
 
 ---
 
-## 📊 GitHub Stats
-
-![Leonardo Custodio GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo1202&show_icons=true&theme=radical)
-
-
----
-
 ## 🚀 Philosophy
 
 > _“Learn, share, and continuously evolve.
