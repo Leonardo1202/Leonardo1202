@@ -1,6 +1,6 @@
 # Hi 👋, I'm Leonardo Custodio
 
-🚀 **Junior DevOps Engineer | Kubernetes • Serverless • CI/CD**  
+🚀 **Pleno DevOps Engineer | Kubernetes • Serverless • CI/CD**  
 🇧🇷 Brazil
 
 I work on building and operating **cloud-native environments and solutions**, leveraging **Kubernetes, Serverless architectures, CI/CD pipelines**, and **Infrastructure as Code (IaC)**. I focus on **automation, DevOps best practices, reliability**, and **performance**, contributing to **solutions aligned with business needs**.
